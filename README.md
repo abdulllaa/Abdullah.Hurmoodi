@@ -17,7 +17,7 @@ $ - Dollar
 [ronaldo] https://github.com/technext/ronaldo 
 [FUT-Auto-Buyer] https://github.com/ckalgos/FUT-Auto-Buyer 
 # experiments 
-🤣
-👀
-😎
-👌🏻
+😃
+🥶
+😂
+💁
